@@ -28,7 +28,7 @@ dependencies:
   change_app_package_name: # change package name
   rename_app: # rename app
 
-
+  shared_preferences: ^2.0.15
 
   flutter: 
     sdk: flutter
